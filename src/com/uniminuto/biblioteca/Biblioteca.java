@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Clase que gestiona la colección de libros y préstamos.
+ * Clase que gestiona la colección de libros y préstamos
  * Contiene métodos para prestar, devolver y consultar inventario.
  */
 public class Biblioteca {
